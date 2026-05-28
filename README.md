@@ -1,6 +1,6 @@
 # Sachin_Career_Analytics_Project
 
-## Cricket Data Analytics Project
+## Cricket Data Analytics 
 An end-to-end cricket data analytics project analyzing Sachin Tendulkar’s international career statistics using Python, SQL Server, and Power BI. This project focuses on data cleaning, exploratory data analysis, SQL-based business problem solving, and interactive dashboard visualization.
 
 # Dashboard Preview
