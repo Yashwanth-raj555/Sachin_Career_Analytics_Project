@@ -1,25 +1,51 @@
-Sachin-Tendulkar-Career-Analysis/
-│
-├── dataset/
-│   └── sachin_perfomance.csv
-│
-├── notebook/
-│   └── Sachin Tendulkar Career Data Cleaning.ipynb
-│
-├── sql_queries/
-│   └── sachin_career_analysis_project.sql
-│
-├── powerbi_dashboard/
-│   └── Sachin.pbix
-│
-├── report/
-│   └── Sachin_Tendulkar_Career_Analysis_Report.pdf
-│
-├── presentation/
-│   └── Sachin_Tendulkar_Career_Analysis_Presentation.pdf
-│
-├── screenshots/
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+```gitignore id="jlwm1"
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Power BI temporary/cache files
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python virtual environments
+env/
+ENV/
+
+# Pytest cache
+.pytest_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Cache folders
+.cache/
+
+# Temporary folders
+temp/
+tmp/
+```
